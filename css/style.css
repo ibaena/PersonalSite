@@ -21,10 +21,13 @@ a:hover {
 
 /*home*/
 #row2 {
-  background-color: black;
+  background-image: url(../img/blackLinen.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+
   color: white;
   padding-bottom: 80px;
-  padding-top: -20px;
+  padding-top: 10px;
 }
 /*skills*/
 #row3 {
