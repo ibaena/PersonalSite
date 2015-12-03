@@ -1,3 +1,5 @@
+/*Nav*/
+
 #row1 {
   padding: 10px;
   background-color:lightfrey;
@@ -17,8 +19,33 @@ a:hover {
 
 }
 
+/*home*/
+#row2 {
+  background-color: black;
+  color: white;
+  padding-bottom: 80px;
+  padding-top: -20px;
+}
+/*skills*/
+#row3 {
+  background-color: yellow;
+  color: black;
+  padding-bottom: 20px;
+}
+/*apps*/
+#row4 {
+  padding: 20px;
+  margin-bottom: 25px;
+   
+}
 
+/*about*/
+#row5 {
+  background-color: green;
+  color:white;
+}
 
+ /*content multi*/
 #home-page, #projects-content {
   text-align: center;
   margin-top: 50px;
@@ -27,7 +54,7 @@ a:hover {
 }
 
 .headerText {
-  margin-top: 30px;
+  margin-top: 20px;
   padding-top: 25px;
 }
 
@@ -36,7 +63,15 @@ a:hover {
   font-weight: bold;
 }
 
- #skills-content {
+#about-content{
+  text-align: center;
 
+}
+
+
+ .app-right, .app-left {
+
+  height: 150px;
+  width: auto;
 
  }
